@@ -45,8 +45,8 @@ For more details on the dataset, refer to `liar_dataset/README`.
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/OtoYuki/fake-news-detection-liar.git
+    cd fake-news-detection-liar
     ```
 
 2. **Set up a Python virtual environment (recommended):**
